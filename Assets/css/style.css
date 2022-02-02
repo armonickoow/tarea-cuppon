@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+/*barra de navegacion*/
+
+.container-fluid{
+    background-color:#28A745;
+    display: inline-block;
+
+}
+.container-fluid img{
+    margin: 20px;
+    font-family:  'Roboto', sans-serif;
+    
+}
+/*tarjetas*/
+.verdesito{
+    color: #28A745;
+}
+/*formulatio*/
+form{
+    background-color: #28A745;
+    text-align: center;
+}
+label{
+    border-radius: 50%;
+    height: 10px;
+}
+
+/*footer*/
+imgfoot footer{
+    margin: 20px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+.ultimo{
+    color: #707070;
+}
